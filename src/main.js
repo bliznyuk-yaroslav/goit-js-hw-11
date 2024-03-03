@@ -13,7 +13,7 @@ const searchInput = document.querySelector('.input-text');
 
 const form = document.querySelector('.main-form');
 
-const  load = document.querySelector('.loading');
+const load = document.querySelector('.loader');
 
 load.style.display = 'none';
 
